@@ -12,7 +12,7 @@ This is a webpage that introduces myself and talks about some of the work I have
 4. Now you can see my Portfolio! Additionally you can just use my github pages right below!
 
 ## Github Pages
-
+[Check out my github pages!](https://elliotmcgonigal.github.io/epicodus-portfolio/)
 ## Known Bugs
 None
 ## License
