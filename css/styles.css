@@ -8,3 +8,14 @@
   background-color: blueviolet;
   box-sizing: border-box;
 }
+img {
+  width: 500px;
+  height: 500px;
+  float: left;
+}
+
+.aboutMe {
+  padding-left: 550px;
+  padding-right: 200px;
+  background-color: tan;
+}
