@@ -1,0 +1,10 @@
+#epicodus {
+  color: blue;
+}
+.projects {
+  margin: 30px;
+  border: 2px black;
+  padding: 10px;
+  background-color: blueviolet;
+  box-sizing: border-box;
+}
